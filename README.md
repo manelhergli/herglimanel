@@ -1,49 +1,39 @@
-Bienvenue 👋, je suis Manel Hergli
+👋 Hi, I'm Manel Hergli
+QA Automation Engineer 🇫🇷 | France
 
-Je vis à Sousse, en Tunisie, et je suis développeuse web.
+Welcome to my GitHub profile!
 
-🚀 Pourquoi développeuse web et pas astronaute ?
-
-J'ai rapidement été attirée par le développement web. Comme j'ai peur du vide, je me suis naturellement dirigée vers le web : un mélange de programmation et de design, deux domaines qui m'intéressent énormément.
-
-🎓 MIT, Polytechnique ?
-const MANEL = new Object();
-
-function God() {
-  if (MANEL.diplomes > 0) {
-    return console.log("I'm your graduate GIRL!");
-  }
-
-  return console.log("Sorry, I can do nothing for you.");
-}
+![Animation de programmation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28xY3g1bTZ1djdqMzNmbmd3bmw2dmZ6YnRyc2NoaGl6MW4yNHRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8VTGrBPjwo7GnIGiE/giphy.gif)
 
 
-Bon, d'accord… Je l'avoue : j'ai tout appris en autodidacte, dans mon coin. Et alors ?
+I'm interested in software quality, test automation, and building reliable applications. I'm continuously learning and improving my technical skills to grow as a QA Automation Engineer.
 
-📚 Apprendre chaque jour est devenu une habitude.
-🧩 Résoudre seule des problèmes fait partie du quotidien.
-🔎 Savoir effectuer des recherches est essentiel.
-💻 Personne ne m'oblige à apprendre, et pourtant je le fais !
-💻 Et tu as fait quoi, alors ?
+🧪 About Me
+🔍 Interested in software testing and quality assurance
+🤖 Exploring test automation practices
+💻 Learning and working with JavaScript and TypeScript
+🔄 Interested in API testing and CI/CD workflows
+📚 Always learning, improving, and exploring new technologies
+🛠️ Technologies & Tools
 
-J'ai développé des projets de A à Z, de la conception des maquettes jusqu'au déploiement, et découvert une multitude de technologies.
+Areas of interest
 
-Comme j'apprends par passion, en investissant mon temps et mes économies 💳, je suis particulièrement motivée par l'idée de concrétiser des projets et d'aider les personnes qui me font confiance.
+Test Automation: Playwright, Selenium, Cypress
+API Testing: Postman
+Programming: JavaScript, TypeScript
+Version Control: Git and GitHub
+CI/CD: Jenkins
 
-Chaque jour, je renforce mes connaissances pour aller toujours plus loin et avancer vers mes objectifs.
+My experience with these technologies may vary as I continue to develop my skills.
 
-function GodDetectBullshit(isBullshit) {
-  if (isBullshit) {
-    return console.log("5.5 jours sur 7");
-  }
+🎯 My Current Goals
+Strengthen my test automation skills
+Learn to build maintainable automated test suites
+Improve my understanding of API testing
+Explore the integration of automated tests into CI/CD pipelines
+Share my learning journey and future projects on GitHub
+📫 Contact
+📧 Email: Contact me
+💼 LinkedIn: My LinkedIn profile
 
-  return console.log(isBullshit);
-}
-
-😅 C'est fini ? Je peux partir ?
-
-Oui !
-
-📧 Email : manel.hergli@outlook.com
-
-💼 LinkedIn : Manel Hergli
+⭐ Thanks for visiting my profile!
